@@ -1,0 +1,14 @@
+{
+	"databases": {
+		"news": {
+			"data1": {
+				"id": 1,
+				"name": "Keep your compunter up to date!",
+				"preview": "This is a first public build 0026",
+				"preview_picture": "",
+				"detail": "We have news!",
+				"detail_picture": "",
+			}
+		}
+	}
+}

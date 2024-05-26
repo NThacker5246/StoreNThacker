@@ -1,0 +1,1 @@
+{"database":{"news":{"data":["news1.json","news2.json","news3.json","news4.json"]},"goods":{"data":{"1":"goods1.json","2":"goods2.json","3":"goods3.json"}},"arcticle":{"data":{"1":"arcticle1.json","2":"arcticle2.json"}},"service":{"data":{"1":"service1.json","2":"service2.json"}},"tester":{"data":["tester1.json"]}}}
